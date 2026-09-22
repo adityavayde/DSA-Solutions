@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 0,
+    "medium": 1,
     "hard": 1,
     "basic": 0
   },
   "syncedProblems": {
-    "LeetCode_Find_X_Value_of_Array_II": true
+    "LeetCode_Find_X_Value_of_Array_II": true,
+    "GeeksForGeeks_Longest_Matching_in_Dictionary_with_Removals": true
   },
   "activityHistory": {
-    "2026-09-22": 1
+    "2026-09-22": 2
   },
   "todayProblems": [
-    "Find X Value of Array II"
+    "Find X Value of Array II",
+    "Longest Matching in Dictionary with Removals"
   ]
 }
