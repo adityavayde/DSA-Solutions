@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **5** | 1 | 0 | 0 | `2026-09-23` |
+| **5** | 1 | 4 | 0 | `2026-09-23` |
 
 ---
 
@@ -22,15 +22,15 @@
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Longest Matching in Dictionary with Removals](./GeeksForGeeks/Medium/Longest%2520Matching%2520in%2520Dictionary%2520with%2520Removals) | [GEEKSFORGEEKS](./GeeksForGeeks/Medium/Longest%2520Matching%2520in%2520Dictionary%2520with%2520Removals/1) | 🟡 Medium | `Medium` | `-` |
-| 0002 | [Pyramid Array with Reduce Operations](./GeeksForGeeks/Medium/Pyramid%2520Array%2520with%2520Reduce%2520Operations) | [GEEKSFORGEEKS](./GeeksForGeeks/Medium/Pyramid%2520Array%2520with%2520Reduce%2520Operations/1) | 🟡 Medium | `Medium` | `-` |
+| 0001 | [Longest Matching In Dictionary With Removals](./GeeksForGeeks/Medium/Longest%20Matching%20in%20Dictionary%20with%20Removals) | [JAVA](./GeeksForGeeks/Medium/Longest%20Matching%20in%20Dictionary%20with%20Removals/solution.java) | 🟡 Medium | `Medium` | `2026-09-22` |
+| 0002 | [Pyramid Array With Reduce Operations](./GeeksForGeeks/Medium/Pyramid%20Array%20with%20Reduce%20Operations) | [JAVA](./GeeksForGeeks/Medium/Pyramid%20Array%20with%20Reduce%20Operations/solution.java) | 🟡 Medium | `Medium` | `2026-09-23` |
 
 ### LeetCode (2)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Find X Value of Array II](./LeetCode/Hard/Find%2520X%2520Value%2520of%2520Array%2520II) | [JAVA](./LeetCode/Hard/Find%2520X%2520Value%2520of%2520Array%2520II/solution.java) | 🔴 Hard | `Hard` | `-` |
-| 0002 | [Minimum Operations to Reduce X to Zero](./LeetCode/Medium/Minimum%2520Operations%2520to%2520Reduce%2520X%2520to%2520Zero) | [JAVA](./LeetCode/Medium/Minimum%2520Operations%2520to%2520Reduce%2520X%2520to%2520Zero/solution.java) | 🟡 Medium | `Medium` | `-` |
+| 0001 | [Find X Value Of Array II](./LeetCode/Hard/Find%20X%20Value%20of%20Array%20II) | [JAVA](./LeetCode/Hard/Find%20X%20Value%20of%20Array%20II/solution.java) | 🟡 Medium | `Hard` | `2026-09-22` |
+| 0002 | [Minimum Operations To Reduce X To Zero](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) | [JAVA](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/solution.java) | 🟡 Medium | `Medium` | `2026-09-23` |
 
 ---
 
