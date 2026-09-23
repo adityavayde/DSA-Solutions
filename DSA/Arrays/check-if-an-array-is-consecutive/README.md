@@ -1,4 +1,4 @@
-# [716. Check if an Array Is ConsecutivePOTD](https://takeuforward.org/practice/dsa/check-if-an-array-is-consecutive?tab=solution)
+# [716. Check if an Array Is ConsecutivePOTD](https://takeuforward.org/practice/dsa/check-if-an-array-is-consecutive?tab=solution&solution=optimal)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
