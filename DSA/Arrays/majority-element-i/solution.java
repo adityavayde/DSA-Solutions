@@ -1,27 +1,42 @@
 class Solution {
     // Function to find the majority element in an array
     public int majorityElement(int[] nums) {
-        
         // Size of the given array
         int n = nums.length;
         
-        // Hash map to store element counts
-        HashMap<Integer, Integer> map = new HashMap<>();
+        // Count
+        int cnt = 0;
         
-        // Count occurrences of each element
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
+        // Element
+        int el = 0;
         
-        /* Iterate through the map to
-        find the majority element*/
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (entry.getValue() > n / 2) {
-                return entry.getKey();
+        // Applying the algorithm
+        for (int i = 0; i < n; i++) {
+            if (cnt == 0) {
+                cnt = 1;
+                el = nums[i];
+            } else if (el == nums[i]) {
+                cnt++;
+            } else {
+                cnt--;
             }
         }
         
-        // Return -1 if no majority element is found
+        /* Checking if the stored element
+         is the majority element*/
+        int cnt1 = 0;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == el) {
+                cnt1++;
+            }
+        }
+        
+        // Return element if it is a majority element
+        if (cnt1 > (n / 2)) {
+            return el;
+        }
+        
+        // Return -1 if no such element found
         return -1;
     }
 }

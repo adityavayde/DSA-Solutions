@@ -1,4 +1,4 @@
-# [83. Majority Element-IPOTD](https://takeuforward.org/practice/dsa/majority-element-i?solution=better)
+# [83. Majority Element-IPOTD](https://takeuforward.org/practice/dsa/majority-element-i?solution=optimal)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
