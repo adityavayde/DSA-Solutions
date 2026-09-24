@@ -6,17 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 1 | 5 | 0 | `2026-09-24` |
+| **7** | 1 | 6 | 0 | `2026-09-24` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (1)
+### DSA (2)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [716. Check if an Array Is ConsecutivePOTD](./DSA/Arrays/check-if-an-array-is-consecutive) | [JAVA](./DSA/Arrays/check-if-an-array-is-consecutive/solution.java) | 🟢 Easy | `Arrays` | `2026-09-23` |
+| 0002 | [83. Majority Element-IPOTD](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-09-24` |
 
 ### GeeksForGeeks (3)
 
