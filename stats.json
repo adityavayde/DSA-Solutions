@@ -1,12 +1,12 @@
 {
-  "totalSolved": 7,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-09-25",
-  "todayCount": 2,
+  "totalSolved": 8,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-09-26",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 4,
+    "medium": 5,
     "hard": 2,
     "basic": 0
   },
@@ -17,16 +17,17 @@
     "LeetCode_Minimum_Operations_to_Reduce_X_to_Zero": true,
     "GeeksForGeeks_Maximum_Height_Disc_Stack": true,
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
-    "LeetCode_Brace_Expansion_II": true
+    "LeetCode_Brace_Expansion_II": true,
+    "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true
   },
   "activityHistory": {
     "2026-09-22": 2,
     "2026-09-23": 2,
     "2026-09-24": 1,
-    "2026-09-25": 2
+    "2026-09-25": 2,
+    "2026-09-26": 1
   },
   "todayProblems": [
-    "Smallest Index With Digit Sum Equal to Index",
-    "Brace Expansion II"
+    "Evaluate the Bracket Pairs of a String"
   ]
 }
