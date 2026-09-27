@@ -1,12 +1,12 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-09-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 7,
+    "medium": 8,
     "hard": 2,
     "basic": 0
   },
@@ -20,7 +20,8 @@
     "LeetCode_Brace_Expansion_II": true,
     "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true,
     "GeeksForGeeks_Minimum_Cost_Pizza_Selection": true,
-    "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true
+    "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true,
+    "GeeksForGeeks_Longest_Colored_Path": true
   },
   "activityHistory": {
     "2026-09-22": 2,
@@ -28,9 +29,10 @@
     "2026-09-24": 1,
     "2026-09-25": 2,
     "2026-09-26": 2,
-    "2026-09-27": 1
+    "2026-09-27": 2
   },
   "todayProblems": [
-    "Reverse Substrings Between Each Pair of Parentheses"
+    "Reverse Substrings Between Each Pair of Parentheses",
+    "Longest Colored Path"
   ]
 }
