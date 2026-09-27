@@ -1,12 +1,12 @@
 {
-  "totalSolved": 9,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-09-26",
-  "todayCount": 2,
+  "totalSolved": 10,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-09-27",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 6,
+    "medium": 7,
     "hard": 2,
     "basic": 0
   },
@@ -19,17 +19,18 @@
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
     "LeetCode_Brace_Expansion_II": true,
     "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true,
-    "GeeksForGeeks_Minimum_Cost_Pizza_Selection": true
+    "GeeksForGeeks_Minimum_Cost_Pizza_Selection": true,
+    "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true
   },
   "activityHistory": {
     "2026-09-22": 2,
     "2026-09-23": 2,
     "2026-09-24": 1,
     "2026-09-25": 2,
-    "2026-09-26": 2
+    "2026-09-26": 2,
+    "2026-09-27": 1
   },
   "todayProblems": [
-    "Evaluate the Bracket Pairs of a String",
-    "Minimum Cost Pizza Selection"
+    "Reverse Substrings Between Each Pair of Parentheses"
   ]
 }
