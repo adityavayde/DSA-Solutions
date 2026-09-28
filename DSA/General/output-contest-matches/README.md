@@ -1,4 +1,4 @@
-# [594. Output Contest MatchesPOTD](https://takeuforward.org/practice/dsa/output-contest-matches)
+# [594. Output Contest MatchesPOTD](https://takeuforward.org/practice/dsa/output-contest-matches?solution=optimal)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 

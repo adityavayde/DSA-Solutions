@@ -1,20 +1,26 @@
 class Solution {
     public String findContestMatch(int n) {
-        List<String> teams = new ArrayList<>();
-        for (int i = 1; i <= n; ++i) {
-            teams.add(String.valueOf(i));
+        Deque<String> dq = new ArrayDeque<>();
+        
+        // Fill the deque with the initial teams
+        for (int i = 1; i <= n; i++) {
+            dq.addLast(Integer.toString(i));
         }
         
-        while (teams.size() > 1) {
-            List<String> nextRound = new ArrayList<>();
-            int left = 0, right = teams.size() - 1;
-            while (left < right) {
-                nextRound.add("(" + teams.get(left) + "," + teams.get(right) + ")");
-                left++;
-                right--;
+        /* Perform the pairing process
+        until only one match remains */
+        while (dq.size() > 1) {
+            Deque<String> temp = new ArrayDeque<>();
+            
+            /* Pair the first and last 
+            elements, add them to temp */
+            while (!dq.isEmpty()) {
+                String match = "(" + dq.removeFirst() + "," + dq.removeLast() + ")";
+                temp.addLast(match);
             }
-            teams = nextRound;
+            // Move the results back to the main deque
+            dq = temp;  
         }
-        return teams.get(0);
+        return dq.removeFirst();  
     }
 }
