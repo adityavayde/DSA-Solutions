@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 9,
+    "medium": 10,
     "hard": 3,
     "basic": 0
   },
@@ -24,7 +24,8 @@
     "GeeksForGeeks_Longest_Colored_Path": true,
     "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
     "GeeksForGeeks_Range_GCD_Queries": true,
-    "LeetCode__Check_if_There_Is_a_Valid_Parentheses_String_Path": true
+    "LeetCode__Check_if_There_Is_a_Valid_Parentheses_String_Path": true,
+    "GeeksForGeeks_Min_Steps_by_Knight": true
   },
   "activityHistory": {
     "2026-09-22": 2,
@@ -34,9 +35,10 @@
     "2026-09-26": 2,
     "2026-09-27": 2,
     "2026-09-28": 2,
-    "2026-09-29": 1
+    "2026-09-29": 2
   },
   "todayProblems": [
-    " Check if There Is a Valid Parentheses String Path"
+    " Check if There Is a Valid Parentheses String Path",
+    "Min Steps by Knight"
   ]
 }
