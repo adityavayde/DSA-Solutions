@@ -1,4 +1,4 @@
-# [72. Meeting RoomsPOTD](https://takeuforward.org/practice/dsa/meeting-rooms)
+# [72. Meeting RoomsPOTD](https://takeuforward.org/practice/dsa/meeting-rooms?solution=optimal)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
