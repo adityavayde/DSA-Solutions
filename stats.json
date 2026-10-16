@@ -1,13 +1,13 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 1,
   "maxStreak": 14,
   "lastSyncDate": "2026-10-16",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 4,
     "medium": 22,
-    "hard": 4,
+    "hard": 5,
     "basic": 0
   },
   "syncedProblems": {
@@ -40,7 +40,8 @@
     "LeetCode_Score_of_Parentheses": true,
     "GeeksForGeeks_Successful_Binary_Searches_Irrespective_of_Pivot": true,
     "LeetCode_Maximize_Sum_of_Squares_of_Digits": true,
-    "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true
+    "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
+    "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_II": true
   },
   "activityHistory": {
     "2026-09-22": 2,
@@ -57,11 +58,12 @@
     "2026-10-03": 2,
     "2026-10-04": 2,
     "2026-10-05": 2,
-    "2026-10-16": 3
+    "2026-10-16": 4
   },
   "todayProblems": [
     "Successful Binary Searches Irrespective of Pivot",
     "Maximize Sum of Squares of Digits",
-    "Subarrays Distinct Element Sum of Squares I"
+    "Subarrays Distinct Element Sum of Squares I",
+    "Subarrays Distinct Element Sum of Squares II"
   ]
 }
