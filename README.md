@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **5** | 2 | 0 | 0 | `2026-10-16` |
+| **6** | 3 | 0 | 0 | `2026-10-16` |
 
 ---
 
@@ -27,12 +27,13 @@
 | 0009 | [594. Output Contest MatchesPOTD](./DSA/General/output-contest-matches) | [JAVA](./DSA/General/output-contest-matches/solution.java) | 🟡 Medium | `General` | `2026-09-28` |
 | 0010 | [303. Sort Characters by FrequencyPOTD](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
 
-### SQL (2)
+### SQL (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Big Countries](./SQL/Problems-Level-1-Query-Fundamentals/big-countries) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/big-countries/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-16` |
-| 0002 | [Profitable Customers in 2021](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-16` |
+| 0002 | [Odd Non-Boring Movies](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-16` |
+| 0003 | [Profitable Customers in 2021](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-16` |
 
 ### GeeksForGeeks (14)
 
