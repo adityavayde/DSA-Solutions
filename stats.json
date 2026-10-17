@@ -1,12 +1,12 @@
 {
-  "totalSolved": 31,
-  "currentStreak": 1,
+  "totalSolved": 32,
+  "currentStreak": 2,
   "maxStreak": 14,
-  "lastSyncDate": "2026-10-16",
-  "todayCount": 4,
+  "lastSyncDate": "2026-10-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 22,
+    "medium": 23,
     "hard": 5,
     "basic": 0
   },
@@ -41,7 +41,8 @@
     "GeeksForGeeks_Successful_Binary_Searches_Irrespective_of_Pivot": true,
     "LeetCode_Maximize_Sum_of_Squares_of_Digits": true,
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
-    "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_II": true
+    "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_II": true,
+    "GeeksForGeeks_Convert_One_String_to_Another_with_Constraints": true
   },
   "activityHistory": {
     "2026-09-22": 2,
@@ -58,12 +59,10 @@
     "2026-10-03": 2,
     "2026-10-04": 2,
     "2026-10-05": 2,
-    "2026-10-16": 4
+    "2026-10-16": 4,
+    "2026-10-17": 1
   },
   "todayProblems": [
-    "Successful Binary Searches Irrespective of Pivot",
-    "Maximize Sum of Squares of Digits",
-    "Subarrays Distinct Element Sum of Squares I",
-    "Subarrays Distinct Element Sum of Squares II"
+    "Convert One String to Another with Constraints"
   ]
 }
