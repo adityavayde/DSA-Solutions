@@ -1,12 +1,12 @@
 {
-  "totalSolved": 33,
-  "currentStreak": 2,
+  "totalSolved": 34,
+  "currentStreak": 3,
   "maxStreak": 14,
-  "lastSyncDate": "2026-10-17",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-18",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 24,
+    "medium": 25,
     "hard": 5,
     "basic": 0
   },
@@ -43,7 +43,8 @@
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_II": true,
     "GeeksForGeeks_Convert_One_String_to_Another_with_Constraints": true,
-    "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true
+    "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true,
+    "GeeksForGeeks_Shortest_Path_From_1_To_n": true
   },
   "activityHistory": {
     "2026-09-22": 2,
@@ -61,10 +62,10 @@
     "2026-10-04": 2,
     "2026-10-05": 2,
     "2026-10-16": 4,
-    "2026-10-17": 2
+    "2026-10-17": 2,
+    "2026-10-18": 1
   },
   "todayProblems": [
-    "Convert One String to Another with Constraints",
-    "Minimum Swaps to Sort by Digit Sum"
+    "Shortest Path From 1 To n"
   ]
 }
