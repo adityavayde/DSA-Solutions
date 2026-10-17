@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 1 | 0 | 0 | `2026-10-17` |
+| **3** | 2 | 0 | 0 | `2026-10-17` |
 
 ---
 
@@ -28,14 +28,15 @@
 | 0010 | [594. Output Contest MatchesPOTD](./DSA/General/output-contest-matches) | [JAVA](./DSA/General/output-contest-matches/solution.java) | 🟡 Medium | `General` | `2026-09-28` |
 | 0011 | [303. Sort Characters by FrequencyPOTD](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
 
-### SQL (4)
+### SQL (5)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Big Countries](./SQL/Problems-Level-1-Query-Fundamentals/big-countries) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/big-countries/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-16` |
 | 0002 | [Filter Records Excluding a Specific Pattern](./SQL/Querying-Essentials/filter-records-excluding-a-specific-pattern) | [SQL](./SQL/Querying-Essentials/filter-records-excluding-a-specific-pattern/solution.sql) | 🟢 Easy | `Querying-Essentials` | `2026-10-17` |
-| 0003 | [Odd Non-Boring Movies](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-16` |
-| 0004 | [Profitable Customers in 2021](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-16` |
+| 0003 | [Find Records Excluding a Given Set of Values](./SQL/Querying-Essentials/find-records-excluding-a-given-set-of-values) | [SQL](./SQL/Querying-Essentials/find-records-excluding-a-given-set-of-values/solution.sql) | 🟢 Easy | `Querying-Essentials` | `2026-10-17` |
+| 0004 | [Odd Non-Boring Movies](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-16` |
+| 0005 | [Profitable Customers in 2021](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021) | [SQL](./SQL/Problems-Level-1-Query-Fundamentals/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Problems-Level-1-Query-Fundamentals` | `2026-10-16` |
 
 ### GeeksForGeeks (15)
 
