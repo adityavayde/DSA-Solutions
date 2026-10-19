@@ -1,11 +1,11 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 4,
   "maxStreak": 14,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 26,
     "hard": 6,
     "basic": 0
@@ -46,7 +46,8 @@
     "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true,
     "GeeksForGeeks_Shortest_Path_From_1_To_n": true,
     "LeetCode_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST": true,
-    "GeeksForGeeks_Count_Indices_That_Escape_Array": true
+    "GeeksForGeeks_Count_Indices_That_Escape_Array": true,
+    "LeetCode_Find_Target_Indices_After_Sorting_Array": true
   },
   "activityHistory": {
     "2026-09-22": 2,
@@ -66,9 +67,10 @@
     "2026-10-16": 4,
     "2026-10-17": 2,
     "2026-10-18": 2,
-    "2026-10-19": 1
+    "2026-10-19": 2
   },
   "todayProblems": [
-    "Count Indices That Escape Array"
+    "Count Indices That Escape Array",
+    "Find Target Indices After Sorting Array"
   ]
 }
