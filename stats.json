@@ -1,12 +1,12 @@
 {
-  "totalSolved": 37,
-  "currentStreak": 4,
+  "totalSolved": 38,
+  "currentStreak": 5,
   "maxStreak": 14,
-  "lastSyncDate": "2026-10-19",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 26,
+    "medium": 27,
     "hard": 6,
     "basic": 0
   },
@@ -47,7 +47,8 @@
     "GeeksForGeeks_Shortest_Path_From_1_To_n": true,
     "LeetCode_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST": true,
     "GeeksForGeeks_Count_Indices_That_Escape_Array": true,
-    "LeetCode_Find_Target_Indices_After_Sorting_Array": true
+    "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
+    "GeeksForGeeks_Largest_with_Same_Parity_Adjacent_Swaps": true
   },
   "activityHistory": {
     "2026-09-22": 2,
@@ -67,10 +68,10 @@
     "2026-10-16": 4,
     "2026-10-17": 2,
     "2026-10-18": 2,
-    "2026-10-19": 2
+    "2026-10-19": 2,
+    "2026-10-20": 1
   },
   "todayProblems": [
-    "Count Indices That Escape Array",
-    "Find Target Indices After Sorting Array"
+    "Largest with Same Parity Adjacent Swaps"
   ]
 }
