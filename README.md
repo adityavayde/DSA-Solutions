@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **3** | 0 | 1 | 0 | `2026-10-22` |
+| **4** | 0 | 2 | 0 | `2026-10-22` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (15)
+### DSA (16)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,16 +21,17 @@
 | 0003 | [494. Bitwise OR of Adjacent ElementsPOTD](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements) | [JAVA](./DSA/Bit-Manipulation/bitwise-or-of-adjacent-elements/solution.java) | 🟢 Easy | `Bit-Manipulation` | `2026-09-29` |
 | 0004 | [Build Heap From A Given Array](./DSA/Heaps/build-heap-from-a-given-array) | [JAVA](./DSA/Heaps/build-heap-from-a-given-array/solution.java) | ⚪ Unspecified | `Heaps` | `2026-10-01` |
 | 0005 | [716. Check if an Array Is ConsecutivePOTD](./DSA/Arrays/check-if-an-array-is-consecutive) | [JAVA](./DSA/Arrays/check-if-an-array-is-consecutive/solution.java) | 🟢 Easy | `Arrays` | `2026-09-23` |
-| 0006 | [854. Count Nodes in Linked ListPOTD](./DSA/Linked-List/count-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/count-nodes-in-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-10-17` |
-| 0007 | [259. Design Hit CounterPOTD](./DSA/General/design-hit-counter) | [JAVA](./DSA/General/design-hit-counter/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
-| 0008 | [373. Design Snake GamePOTD](./DSA/General/design-snake-game) | [JAVA](./DSA/General/design-snake-game/solution.java) | 🟡 Medium | `General` | `2026-10-21` |
-| 0009 | [314. Divide two numbers without multiplication and divisionPOTD](./DSA/General/divide-two-numbers-without-multiplication-and-division) | [JAVA](./DSA/General/divide-two-numbers-without-multiplication-and-division/solution.java) | 🟡 Medium | `General` | `2026-10-19` |
-| 0010 | [83. Majority Element-IPOTD](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-09-24` |
-| 0011 | [18. Maximum Depth in BTPOTD](./DSA/Trees/maximum-depth-in-bt) | [Tab1](./DSA/Trees/maximum-depth-in-bt/Tab1.java) | 🟡 Medium | `Trees` | `2026-10-20` |
-| 0012 | [72. Meeting RoomsPOTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) | 🟢 Easy | `General` | `2026-10-02` |
-| 0013 | [594. Output Contest MatchesPOTD](./DSA/General/output-contest-matches) | [JAVA](./DSA/General/output-contest-matches/solution.java) | 🟡 Medium | `General` | `2026-09-28` |
-| 0014 | [1027. Reverse a StackPOTD](./DSA/Stack-Queue/reverse-a-stack) | [JAVA](./DSA/Stack-Queue/reverse-a-stack/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-18` |
-| 0015 | [303. Sort Characters by FrequencyPOTD](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
+| 0006 | [974. Check if an array represents a min heap POTD](./DSA/Heaps/check-if-an-array-represents-a-min-heap-) | [JAVA](./DSA/Heaps/check-if-an-array-represents-a-min-heap-/solution.java) | 🟡 Medium | `Heaps` | `2026-10-22` |
+| 0007 | [854. Count Nodes in Linked ListPOTD](./DSA/Linked-List/count-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/count-nodes-in-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-10-17` |
+| 0008 | [259. Design Hit CounterPOTD](./DSA/General/design-hit-counter) | [JAVA](./DSA/General/design-hit-counter/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
+| 0009 | [373. Design Snake GamePOTD](./DSA/General/design-snake-game) | [JAVA](./DSA/General/design-snake-game/solution.java) | 🟡 Medium | `General` | `2026-10-21` |
+| 0010 | [314. Divide two numbers without multiplication and divisionPOTD](./DSA/General/divide-two-numbers-without-multiplication-and-division) | [JAVA](./DSA/General/divide-two-numbers-without-multiplication-and-division/solution.java) | 🟡 Medium | `General` | `2026-10-19` |
+| 0011 | [83. Majority Element-IPOTD](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-09-24` |
+| 0012 | [18. Maximum Depth in BTPOTD](./DSA/Trees/maximum-depth-in-bt) | [Tab1](./DSA/Trees/maximum-depth-in-bt/Tab1.java) | 🟡 Medium | `Trees` | `2026-10-20` |
+| 0013 | [72. Meeting RoomsPOTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) | 🟢 Easy | `General` | `2026-10-02` |
+| 0014 | [594. Output Contest MatchesPOTD](./DSA/General/output-contest-matches) | [JAVA](./DSA/General/output-contest-matches/solution.java) | 🟡 Medium | `General` | `2026-09-28` |
+| 0015 | [1027. Reverse a StackPOTD](./DSA/Stack-Queue/reverse-a-stack) | [JAVA](./DSA/Stack-Queue/reverse-a-stack/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-18` |
+| 0016 | [303. Sort Characters by FrequencyPOTD](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | 🟡 Medium | `Arrays` | `2026-10-16` |
 
 ### SQL (8)
 
