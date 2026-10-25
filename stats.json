@@ -1,12 +1,12 @@
 {
-  "totalSolved": 48,
+  "totalSolved": 49,
   "currentStreak": 10,
   "maxStreak": 14,
   "lastSyncDate": "2026-10-25",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 35,
+    "medium": 36,
     "hard": 7,
     "basic": 0
   },
@@ -58,7 +58,8 @@
     "LeetCode_Maximum_K_to_Sort_a_Permutation": true,
     "GeeksForGeeks_Trace_Path": true,
     "LeetCode_Count_Days_Spent_Together": true,
-    "GeeksForGeeks_Sum_of_Beauty_of_All_Substrings": true
+    "GeeksForGeeks_Sum_of_Beauty_of_All_Substrings": true,
+    "LeetCode_Number_of_Closed_Islands": true
   },
   "activityHistory": {
     "2026-09-22": 2,
@@ -84,10 +85,11 @@
     "2026-10-22": 2,
     "2026-10-23": 2,
     "2026-10-24": 1,
-    "2026-10-25": 2
+    "2026-10-25": 3
   },
   "todayProblems": [
     "Count Days Spent Together",
-    "Sum of Beauty of All Substrings"
+    "Sum of Beauty of All Substrings",
+    "Number of Closed Islands"
   ]
 }
