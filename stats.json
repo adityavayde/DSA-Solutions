@@ -1,12 +1,12 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 1,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-31",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 7,
+    "medium": 8,
     "hard": 1,
     "basic": 0
   },
@@ -19,16 +19,18 @@
     "LeetCode_Minimum_XOR_Path_in_a_Grid": true,
     "GeeksForGeeks_Optimal_File_Merge": true,
     "LeetCode_Palindromic_Path_Queries_in_a_Tree": true,
-    "LeetCode_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters": true
+    "LeetCode_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters": true,
+    "GeeksForGeeks_Maximum_Packages_within_Time": true
   },
   "activityHistory": {
     "2026-10-26": 2,
     "2026-10-27": 1,
     "2026-10-28": 3,
     "2026-10-29": 2,
-    "2026-10-31": 1
+    "2026-10-31": 2
   },
   "todayProblems": [
-    "Shortest Path With At Most K Consecutive Identical Characters"
+    "Shortest Path With At Most K Consecutive Identical Characters",
+    "Maximum Packages within Time"
   ]
 }
