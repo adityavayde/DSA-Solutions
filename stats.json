@@ -1,12 +1,12 @@
 {
-  "totalSolved": 17,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-11-03",
-  "todayCount": 2,
+  "totalSolved": 18,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-11-04",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 14,
+    "medium": 15,
     "hard": 1,
     "basic": 0
   },
@@ -27,7 +27,8 @@
     "GeeksForGeeks_Largest_Sum_Cycle": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
     "GeeksForGeeks_Count_Tree_Paths_With_Limited_Max_Edge_Weight": true,
-    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true,
+    "GeeksForGeeks_XOR_of_All_Subarray_XORs": true
   },
   "activityHistory": {
     "2026-10-26": 2,
@@ -37,10 +38,10 @@
     "2026-10-31": 3,
     "2026-11-01": 2,
     "2026-11-02": 2,
-    "2026-11-03": 2
+    "2026-11-03": 2,
+    "2026-11-04": 1
   },
   "todayProblems": [
-    "Count Tree Paths With Limited Max Edge Weight",
-    "Minimum Moves to Equal Array Elements III"
+    "XOR of All Subarray XORs"
   ]
 }
