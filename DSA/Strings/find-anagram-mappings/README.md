@@ -1,4 +1,4 @@
-# [531. Find Anagram MappingsPOTD](https://takeuforward.org/practice/dsa/find-anagram-mappings)
+# [531. Find Anagram MappingsPOTD](https://takeuforward.org/practice/dsa/find-anagram-mappings?solution=optimal)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 

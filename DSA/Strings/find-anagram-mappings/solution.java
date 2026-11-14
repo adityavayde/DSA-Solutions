@@ -1,16 +1,14 @@
 class Solution {
     public int[] anagramMappings(int[] nums1, int[] nums2) {
+        Map<Integer, Deque<Integer>> indexMap = new HashMap<>();
         int[] result = new int[nums1.length];
-        boolean[] used = new boolean[nums2.length]; // Track used indices
+
+        for (int i = 0; i < nums2.length; i++) {
+            indexMap.computeIfAbsent(nums2[i], k -> new ArrayDeque<>()).addLast(i);
+        }
 
         for (int i = 0; i < nums1.length; i++) {
-            for (int j = 0; j < nums2.length; j++) {
-                if (nums1[i] == nums2[j] && !used[j]) {
-                    result[i] = j;
-                    used[j] = true; // Mark as used
-                    break;
-                }
-            }
+            result[i] = indexMap.get(nums1[i]).removeLast(); // Remove to avoid reuse
         }
 
         return result;
