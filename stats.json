@@ -1,12 +1,12 @@
 {
-  "totalSolved": 40,
-  "currentStreak": 16,
-  "maxStreak": 16,
-  "lastSyncDate": "2026-11-15",
-  "todayCount": 2,
+  "totalSolved": 41,
+  "currentStreak": 17,
+  "maxStreak": 17,
+  "lastSyncDate": "2026-11-16",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 31,
+    "medium": 32,
     "hard": 4,
     "basic": 0
   },
@@ -50,7 +50,8 @@
     "GeeksForGeeks_Max_Equal_Sum_in_3_Stacks": true,
     "LeetCode_Minimum_Positive_Sum_Subarray_": true,
     "GeeksForGeeks_Sum_of_All_Digit_Subsequences": true,
-    "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true
+    "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true,
+    "GeeksForGeeks_K-th_Missing_in_Natural_Numbers": true
   },
   "activityHistory": {
     "2026-10-26": 2,
@@ -72,10 +73,10 @@
     "2026-11-12": 1,
     "2026-11-13": 2,
     "2026-11-14": 2,
-    "2026-11-15": 2
+    "2026-11-15": 2,
+    "2026-11-16": 1
   },
   "todayProblems": [
-    "Sum of All Digit Subsequences",
-    "Number of Sub-arrays With Odd Sum"
+    "K-th Missing in Natural Numbers"
   ]
 }
