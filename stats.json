@@ -1,12 +1,12 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 20,
   "maxStreak": 20,
   "lastSyncDate": "2026-11-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 36,
+    "medium": 37,
     "hard": 5,
     "basic": 0
   },
@@ -57,7 +57,8 @@
     "LeetCode_Minimum_Changes_to_Make_K_Semi-palindromes": true,
     "GeeksForGeeks_XOR_of_Number_Range": true,
     "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true,
-    "GeeksForGeeks_Sort_in_Specific_Order": true
+    "GeeksForGeeks_Sort_in_Specific_Order": true,
+    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true
   },
   "activityHistory": {
     "2026-10-26": 2,
@@ -83,9 +84,10 @@
     "2026-11-16": 2,
     "2026-11-17": 2,
     "2026-11-18": 2,
-    "2026-11-19": 1
+    "2026-11-19": 2
   },
   "todayProblems": [
-    "Sort in Specific Order"
+    "Sort in Specific Order",
+    "Minimum Score by Changing Two Elements"
   ]
 }
