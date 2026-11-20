@@ -4,3 +4,4 @@
 | 2 | [Sort in Specific Order](./GeeksForGeeks/Medium/Sort%20in%20Specific%20Order) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-in-specific-order2422/1) | Medium | 19 Nov 2026 | 10:26 am |
 | 3 | [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | 19 Nov 2026 | 12:04 pm |
 | 4 | [Min Flips for Alternate](./GeeksForGeeks/Medium/Min%20Flips%20for%20Alternate) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/min-number-of-flips3210/1) | Medium | 20 Nov 2026 | 11:10 am |
+| 5 | [Maximize Consecutive Elements in an Array After Modification](./LeetCode/Hard/Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification) | [LeetCode](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | Hard | 20 Nov 2026 | 01:13 pm |
