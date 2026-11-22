@@ -1,12 +1,12 @@
 {
-  "totalSolved": 51,
-  "currentStreak": 22,
-  "maxStreak": 22,
-  "lastSyncDate": "2026-11-21",
+  "totalSolved": 52,
+  "currentStreak": 23,
+  "maxStreak": 23,
+  "lastSyncDate": "2026-11-22",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 39,
+    "medium": 40,
     "hard": 6,
     "basic": 0
   },
@@ -61,7 +61,8 @@
     "LeetCode_Minimum_Score_by_Changing_Two_Elements": true,
     "GeeksForGeeks_Min_Flips_for_Alternate": true,
     "LeetCode_Maximize_Consecutive_Elements_in_an_Array_After_Modification": true,
-    "GeeksForGeeks_Smallest_Subarray_Sum_Greater_Than_x": true
+    "GeeksForGeeks_Smallest_Subarray_Sum_Greater_Than_x": true,
+    "GeeksForGeeks_Longest_Subarray_Sum_Divisible_by_K": true
   },
   "activityHistory": {
     "2026-10-26": 2,
@@ -89,9 +90,10 @@
     "2026-11-18": 2,
     "2026-11-19": 2,
     "2026-11-20": 2,
-    "2026-11-21": 1
+    "2026-11-21": 1,
+    "2026-11-22": 1
   },
   "todayProblems": [
-    "Smallest Subarray Sum Greater Than x"
+    "Longest Subarray Sum Divisible by K"
   ]
 }
