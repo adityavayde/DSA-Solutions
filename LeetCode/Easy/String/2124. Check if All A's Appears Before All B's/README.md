@@ -17,7 +17,7 @@
 [View Problem](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
 
 ## Solved On
-22 Nov 2026 at 09:19 pm
+22 Nov 2026 at 09:20 pm
 
 ---
 
@@ -67,10 +67,10 @@ There are no &#39;a&#39;s, hence, every &#39;a&#39; appears before every &#39;b&
 
 ## Solutions
 
-### [solution1.java](./solution1.java)
+### [solution2.java](./solution2.java)
 - **Language:** Java
 - **Runtime:** 1 ms
-- **Memory:** 42.2 MB
+- **Memory:** 42.3 MB
 
 ---
 *Auto-committed via [SyncCodeX Extension](https://github.com)*
