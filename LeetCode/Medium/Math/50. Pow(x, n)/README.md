@@ -5,7 +5,7 @@
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-F59E0B?style=for-the-badge)
 ![Platform: LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language: Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge)
-![Runtime](https://img.shields.io/badge/Runtime-0%20ms-blue?style=for-the-badge)
+![Runtime](https://img.shields.io/badge/Runtime-1%20ms-blue?style=for-the-badge)
 
 </div>
 
@@ -17,7 +17,7 @@
 [View Problem](https://leetcode.com/problems/powx-n/)
 
 ## Solved On
-22 Nov 2026 at 09:29 pm
+22 Nov 2026 at 09:30 pm
 
 ---
 
@@ -63,10 +63,10 @@
 
 ## Solutions
 
-### [solution1.java](./solution1.java)
+### [solution2.java](./solution2.java)
 - **Language:** Java
-- **Runtime:** 0 ms
-- **Memory:** 43.7 MB
+- **Runtime:** 1 ms
+- **Memory:** 47.6 MB
 
 ---
 *Auto-committed via [SyncCodeX Extension](https://github.com)*
