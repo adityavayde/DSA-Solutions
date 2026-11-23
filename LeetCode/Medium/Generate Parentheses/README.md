@@ -8,7 +8,7 @@
 [View Problem](https://leetcode.com/problems/generate-parentheses/)
 
 ## Solved On
-02 Oct 2026 at 07:57 pm
+23 Nov 2026 at 07:22 pm
 
 <p>Given <code>n</code> pairs of parentheses, write a function to <em>generate all combinations of well-formed parentheses</em>.</p>
 
