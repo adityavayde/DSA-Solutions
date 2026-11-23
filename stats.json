@@ -1,12 +1,12 @@
 {
-  "totalSolved": 55,
+  "totalSolved": 56,
   "currentStreak": 24,
   "maxStreak": 24,
   "lastSyncDate": "2026-11-23",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 43,
+    "medium": 44,
     "hard": 6,
     "basic": 0
   },
@@ -65,7 +65,8 @@
     "GeeksForGeeks_Longest_Subarray_Sum_Divisible_by_K": true,
     "LeetCode_Find_Subtree_Sizes_After_Changes": true,
     "LeetCode_Generate_Parentheses": true,
-    "LeetCode_Product_of_the_Last_K_Numbers": true
+    "LeetCode_Product_of_the_Last_K_Numbers": true,
+    "LeetCode_Subsets": true
   },
   "activityHistory": {
     "2026-10-26": 2,
@@ -95,10 +96,11 @@
     "2026-11-20": 2,
     "2026-11-21": 1,
     "2026-11-22": 2,
-    "2026-11-23": 2
+    "2026-11-23": 3
   },
   "todayProblems": [
     "Generate Parentheses",
-    "Product of the Last K Numbers"
+    "Product of the Last K Numbers",
+    "Subsets"
   ]
 }
