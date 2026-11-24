@@ -1,12 +1,12 @@
 {
-  "totalSolved": 56,
-  "currentStreak": 24,
-  "maxStreak": 24,
-  "lastSyncDate": "2026-11-23",
-  "todayCount": 3,
+  "totalSolved": 57,
+  "currentStreak": 25,
+  "maxStreak": 25,
+  "lastSyncDate": "2026-11-24",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 44,
+    "medium": 45,
     "hard": 6,
     "basic": 0
   },
@@ -66,7 +66,8 @@
     "LeetCode_Find_Subtree_Sizes_After_Changes": true,
     "LeetCode_Generate_Parentheses": true,
     "LeetCode_Product_of_the_Last_K_Numbers": true,
-    "LeetCode_Subsets": true
+    "LeetCode_Subsets": true,
+    "GeeksForGeeks_Two_Pairs_with_Same_Sum": true
   },
   "activityHistory": {
     "2026-10-26": 2,
@@ -96,11 +97,10 @@
     "2026-11-20": 2,
     "2026-11-21": 1,
     "2026-11-22": 2,
-    "2026-11-23": 3
+    "2026-11-23": 3,
+    "2026-11-24": 1
   },
   "todayProblems": [
-    "Generate Parentheses",
-    "Product of the Last K Numbers",
-    "Subsets"
+    "Two Pairs with Same Sum"
   ]
 }
