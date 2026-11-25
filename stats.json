@@ -1,13 +1,13 @@
 {
-  "totalSolved": 63,
+  "totalSolved": 64,
   "currentStreak": 26,
   "maxStreak": 26,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 7,
     "medium": 50,
-    "hard": 6,
+    "hard": 7,
     "basic": 0
   },
   "syncedProblems": {
@@ -73,7 +73,8 @@
     "GeeksForGeeks_Geek's_Destination_with_Special_Jump": true,
     "GeeksForGeeks_Reverse_a_Stack": true,
     "GeeksForGeeks_Subsequence_with_Sum_K": true,
-    "LeetCode_Generate_Binary_Strings_Without_Adjacent_Zeros": true
+    "LeetCode_Generate_Binary_Strings_Without_Adjacent_Zeros": true,
+    "LeetCode_Smallest_Unique_Subarray": true
   },
   "activityHistory": {
     "2026-10-26": 2,
@@ -105,12 +106,13 @@
     "2026-11-22": 2,
     "2026-11-23": 3,
     "2026-11-24": 3,
-    "2026-11-25": 4
+    "2026-11-25": 5
   },
   "todayProblems": [
     "Geek's Destination with Special Jump",
     "Reverse a Stack",
     "Subsequence with Sum K",
-    "Generate Binary Strings Without Adjacent Zeros"
+    "Generate Binary Strings Without Adjacent Zeros",
+    "Smallest Unique Subarray"
   ]
 }
