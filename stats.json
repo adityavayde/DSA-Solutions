@@ -1,12 +1,12 @@
 {
-  "totalSolved": 62,
+  "totalSolved": 63,
   "currentStreak": 26,
   "maxStreak": 26,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 49,
+    "medium": 50,
     "hard": 6,
     "basic": 0
   },
@@ -72,7 +72,8 @@
     "LeetCode_Count_Good_Numbers": true,
     "GeeksForGeeks_Geek's_Destination_with_Special_Jump": true,
     "GeeksForGeeks_Reverse_a_Stack": true,
-    "GeeksForGeeks_Subsequence_with_Sum_K": true
+    "GeeksForGeeks_Subsequence_with_Sum_K": true,
+    "LeetCode_Generate_Binary_Strings_Without_Adjacent_Zeros": true
   },
   "activityHistory": {
     "2026-10-26": 2,
@@ -104,11 +105,12 @@
     "2026-11-22": 2,
     "2026-11-23": 3,
     "2026-11-24": 3,
-    "2026-11-25": 3
+    "2026-11-25": 4
   },
   "todayProblems": [
     "Geek's Destination with Special Jump",
     "Reverse a Stack",
-    "Subsequence with Sum K"
+    "Subsequence with Sum K",
+    "Generate Binary Strings Without Adjacent Zeros"
   ]
 }
