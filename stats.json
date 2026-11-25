@@ -1,12 +1,12 @@
 {
-  "totalSolved": 60,
+  "totalSolved": 61,
   "currentStreak": 26,
   "maxStreak": 26,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 47,
+    "medium": 48,
     "hard": 6,
     "basic": 0
   },
@@ -70,7 +70,8 @@
     "GeeksForGeeks_Two_Pairs_with_Same_Sum": true,
     "LeetCode_Maximum_Subarray_With_Equal_Products": true,
     "LeetCode_Count_Good_Numbers": true,
-    "GeeksForGeeks_Geek's_Destination_with_Special_Jump": true
+    "GeeksForGeeks_Geek's_Destination_with_Special_Jump": true,
+    "GeeksForGeeks_Reverse_a_Stack": true
   },
   "activityHistory": {
     "2026-10-26": 2,
@@ -102,9 +103,10 @@
     "2026-11-22": 2,
     "2026-11-23": 3,
     "2026-11-24": 3,
-    "2026-11-25": 1
+    "2026-11-25": 2
   },
   "todayProblems": [
-    "Geek's Destination with Special Jump"
+    "Geek's Destination with Special Jump",
+    "Reverse a Stack"
   ]
 }
