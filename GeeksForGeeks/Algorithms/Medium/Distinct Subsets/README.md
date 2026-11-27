@@ -28,7 +28,7 @@
 
 ## Solutions
 
-### [solution2.java](./solution2.java)
+### [solution3.java](./solution3.java)
 - **Language:** Java
 
 ---
