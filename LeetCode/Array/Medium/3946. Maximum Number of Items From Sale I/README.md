@@ -5,7 +5,7 @@
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-F59E0B?style=for-the-badge)
 ![Platform: LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language: Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge)
-![Runtime](https://img.shields.io/badge/Runtime-159%20ms-blue?style=for-the-badge)
+![Runtime](https://img.shields.io/badge/Runtime-76%20ms-blue?style=for-the-badge)
 
 </div>
 
@@ -86,10 +86,10 @@
 
 ## Solutions
 
-### [solution2.java](./solution2.java)
+### [solution3.java](./solution3.java)
 - **Language:** Java
-- **Runtime:** 159 ms
-- **Memory:** 74.9 MB
+- **Runtime:** 76 ms
+- **Memory:** 75 MB
 
 ---
 *Auto-committed via [SyncCodeX Extension](https://github.com)*
