@@ -4,8 +4,8 @@
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-F59E0B?style=for-the-badge)
 ![Platform: LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge)
-![Runtime](https://img.shields.io/badge/Runtime-64%20ms-blue?style=for-the-badge)
+![Language: Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge)
+![Runtime](https://img.shields.io/badge/Runtime-47%20ms-blue?style=for-the-badge)
 
 </div>
 
@@ -86,10 +86,10 @@
 
 ## Solutions
 
-### [solution2.cpp](./solution2.cpp)
-- **Language:** C++
-- **Runtime:** 64 ms
-- **Memory:** 34.8 MB
+### [solution1.java](./solution1.java)
+- **Language:** Java
+- **Runtime:** 47 ms
+- **Memory:** 46.1 MB
 
 ---
 *Auto-committed via [SyncCodeX Extension](https://github.com)*
