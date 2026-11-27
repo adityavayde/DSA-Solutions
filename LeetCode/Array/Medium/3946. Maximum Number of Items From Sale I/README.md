@@ -5,7 +5,7 @@
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-F59E0B?style=for-the-badge)
 ![Platform: LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge)
-![Runtime](https://img.shields.io/badge/Runtime-329%20ms-blue?style=for-the-badge)
+![Runtime](https://img.shields.io/badge/Runtime-249%20ms-blue?style=for-the-badge)
 
 </div>
 
@@ -17,7 +17,7 @@
 [View Problem](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/)
 
 ## Solved On
-27 Nov 2026 at 10:12 pm
+27 Nov 2026 at 10:13 pm
 
 ---
 
@@ -86,10 +86,10 @@
 
 ## Solutions
 
-### [solution3.cpp](./solution3.cpp)
+### [solution4.cpp](./solution4.cpp)
 - **Language:** C++
-- **Runtime:** 329 ms
-- **Memory:** 41.7 MB
+- **Runtime:** 249 ms
+- **Memory:** 132.8 MB
 
 ---
 *Auto-committed via [SyncCodeX Extension](https://github.com)*
