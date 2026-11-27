@@ -16,7 +16,7 @@
 [View Problem](https://www.geeksforgeeks.org/problems/subset-sum-ii/1)
 
 ## Solved On
-28 Nov 2026 at 02:16 am
+28 Nov 2026 at 02:23 am
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## Solutions
 
-### [solution1.java](./solution1.java)
+### [solution2.java](./solution2.java)
 - **Language:** Java
 
 ---
